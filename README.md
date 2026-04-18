@@ -134,4 +134,3 @@ Data Analyst | Tableau | SQL | Python
 
 ---
 
-⭐ **If this helped you, please star the repo!**
