@@ -9,6 +9,10 @@ Enterprise-level Tableau dashboard with YoY analysis, KPIs, and actionable busin
 
 **🔗 [View Live on Tableau Public](#)** *(Publishing soon)*
 
+## 🎬 Interactive Demo
+
+![Dashboard Demo](dashboard-demo.gif)
+
 ---
 
 ## Overview
