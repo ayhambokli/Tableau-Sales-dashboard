@@ -101,26 +101,6 @@ THEN "Above" ELSE "Below" END
 - Dual-axis charts for comparisons
 - Container architecture with 10px/7px spacing
 
----
-
-## Getting Started
-
-1. Download `Sales_Dashboard.twb` and CSV files
-2. Open in Tableau Desktop/Public (2023.1+)
-3. Select year from parameter dropdown
-4. Click charts to cross-filter
-5. Hover for detailed tooltips
-
----
-
-## Skills Demonstrated
-
-✅ Data modeling (star schema design)  
-✅ Business analytics (identified $17.7K loss in Tables)  
-✅ Advanced Tableau (LOD, WINDOW calculations, parameters)  
-✅ Dashboard UX (4-color palette, professional formatting)  
-✅ Strategic thinking (actionable recommendations with ROI)  
-
 
 ---
 
