@@ -8,16 +8,12 @@ Enterprise-level Tableau dashboard with YoY analysis, KPIs, and actionable busin
 <img width="1600" height="1000" alt="WhatsApp Image 2026-04-18 at 09 38 09" src="https://github.com/user-attachments/assets/d86e0d9a-98a4-4135-bf6b-1151e8637ca9" />
 
 
-
-**🔗 [View Live on Tableau Public](#)** *(Publishing soon)*
+## 🎬 Interactive Demo
 
 https://github.com/user-attachments/assets/56999b37-bc19-4d31-bc4d-298ffdc7ba8d
 
-
-
-## 🎬 Interactive Demo
-
 ![Dashboard Demo](dashboard-demo.gif)
+
 
 ---
 
