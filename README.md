@@ -1,3 +1,5 @@
+
+
 # 📊 Sales Performance Dashboard
 
 Enterprise-level Tableau dashboard with YoY analysis, KPIs, and actionable business insights.
@@ -8,6 +10,10 @@ Enterprise-level Tableau dashboard with YoY analysis, KPIs, and actionable busin
 
 
 **🔗 [View Live on Tableau Public](#)** *(Publishing soon)*
+
+https://github.com/user-attachments/assets/56999b37-bc19-4d31-bc4d-298ffdc7ba8d
+
+
 
 ## 🎬 Interactive Demo
 
