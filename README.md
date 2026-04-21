@@ -94,23 +94,4 @@ IF SUM([Sales]) > WINDOW_AVG(SUM([Sales]))
 THEN "Above" ELSE "Below" END
 ```
 
-**Technologies:**
-- Tableau calculated fields & LOD expressions
-- Parameters for dynamic year selection
-- Table calculations (WINDOW functions)
-- Dual-axis charts for comparisons
-- Container architecture with 10px/7px spacing
-
-
----
-
-## Contact
-
-**Ayham Bokli Hasan**  
-Data Analyst | Tableau | SQL | Python  
-📍 Berlin, Germany  
-📧 ayham.bokli.hasan@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/ayham-bokli)
-
----
 
